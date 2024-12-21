@@ -1,0 +1,17 @@
+{
+  "name": "ss14-openid",
+  "version": "1.0.0",
+  "description": "Пример [Express OpenID](https://github.com/auth0/express-openid-connect) для [Space Station 14](https://github.com/space-wizards/space-station-14).\r Создавайте приложение [тут](https://account.spacestation14.com/Identity/Account/Manage/Developer).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "doublechest",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-openid-connect": "^2.17.1"
+  }
+}
